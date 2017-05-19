@@ -2,7 +2,8 @@
 
 
 gitler çok iyidir
+Ders 1- Git mantýðý	
+Ders 2- Ýlk Platform	
+Ders 3- Sapla samaný ayýrmak
 
-Ders 1- Dvcs mantýðý ve git
-Ders 2- Ýlk depomuzu oluþturuyoruz
-Ders 3- dallar 
+
